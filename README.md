@@ -1,43 +1,58 @@
-# Hafiz Irshad
+![Hafiz Irshad - BS Computer Science Student - L1S26BSCS0012](https://capsule-render.vercel.app/api?type=waving&color=0:5C2D91,100:00599C&height=200&section=header&text=Hafiz%20Irshad&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=BS%20Computer%20Science%20Student%20%7C%20C%2B%2B%20%7C%20Visual%20Studio&descSize=18&descAlignY=60)
 
-### BS Computer Science Student | C++ Developer in Training
+![Typing intro: Hafiz Irshad, Computer Science student, C++ and Visual Studio](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7C4DFF&width=700&lines=Hafiz+Irshad;BS+Computer+Science+Student;Learning+C%2B%2B+in+Visual+Studio;Roll+No%3A+L1S26BSCS0012)
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-| Name | Roll Number | Program |
-|:---:|:---:|:---:|
-| **Hafiz Irshad** | **L1S26BSCS0012** | BS Computer Science |
+![Roll No](https://img.shields.io/badge/Roll_No-L1S26BSCS0012-5C2D91?style=for-the-badge)
+![Program](https://img.shields.io/badge/Program-BS_Computer_Science-00599C?style=for-the-badge)
+![Language](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![IDE](https://img.shields.io/badge/IDE-Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 ---
 
-## About Me
+## 🧑‍💻 Block 1: About Me
 
-Hello! I'm **Hafiz Irshad**, a Computer Science student. I am currently learning **C++** and I write and test all my programs in **Visual Studio**. This repository is where I keep my code and show what I'm learning.
+> [!NOTE]
+> Hello! I'm **Hafiz Irshad**, a **BS Computer Science** student (Roll No: **L1S26BSCS0012**). I'm learning **C++ programming** and I write and test all my programs in **Visual Studio**. This repository is where I share my code, practice work, and progress.
 
-## Student Information
+## 🪪 Block 2: Student ID Card
 
-| | |
+| Field | Details |
 |:---|:---|
 | **Name** | Hafiz Irshad |
 | **Roll Number** | L1S26BSCS0012 |
 | **Program** | BS Computer Science |
-| **Programming Language** | C++ |
+| **Main Language** | C++ |
 | **IDE** | Visual Studio |
+| **GitHub** | [@hafiz-irshad47](https://github.com/hafiz-irshad47) |
 
-## What I'm Learning
+## 🛠️ Block 3: Skill Set
 
-| Topic | Details |
-|:---|:---|
-| **Basics** | Variables, data types, input and output with `cin` and `cout` |
-| **Control Flow** | if/else, switch, and loops (for, while, do-while) |
-| **Functions and Arrays** | Writing reusable functions and working with arrays |
-| **Coming Next** | Pointers, structures, and object-oriented programming |
+![Skills](https://skillicons.dev/icons?i=cpp,visualstudio,git,github,windows&theme=dark)
 
-## Sample Program
+| Skill | What I do with it | Status |
+|:---|:---|:---:|
+| **C++** | Variables, loops, functions, arrays | 📘 Learning |
+| **Visual Studio** | Write, build, run, and debug programs | ✅ Using daily |
+| **Problem Solving** | Break tasks into small logical steps | 🧩 Practicing |
+| **Git and GitHub** | Save and share my code | 🔄 Practicing |
+
+## 🗺️ Block 4: My C++ Learning Roadmap
+
+```mermaid
+flowchart LR
+    A[Basics] --> B[Control Flow] --> C[Functions] --> D[Arrays] --> E[Pointers] --> F[OOP]
+    style A fill:#5C2D91,color:#ffffff
+    style B fill:#5C2D91,color:#ffffff
+    style C fill:#5C2D91,color:#ffffff
+    style D fill:#00599C,color:#ffffff
+    style E fill:#00599C,color:#ffffff
+    style F fill:#00599C,color:#ffffff
+```
+
+> [!TIP]
+> Purple topics are what I'm studying now. Blue topics are coming next.
+
+## 💻 Block 5: Sample Program
 
 ```cpp
 #include <iostream>
@@ -46,17 +61,30 @@ using namespace std;
 int main() {
     cout << "Name: Hafiz Irshad" << endl;
     cout << "Roll Number: L1S26BSCS0012" << endl;
+    cout << "Program: BS Computer Science" << endl;
     return 0;
 }
 ```
 
-## How to Run in Visual Studio
+<details>
+<summary><b>How to run it in Visual Studio</b></summary>
 
 1. Open Visual Studio and choose **Create a new project**.
 2. Select **Console App** (C++) and click **Next**.
 3. Paste the code into the main `.cpp` file.
 4. Press **Ctrl + F5** to build and run.
 
+</details>
+
+## 🔎 Block 6: Keywords
+
+> [!IMPORTANT]
+> **Hafiz Irshad** | **L1S26BSCS0012** | BS Computer Science student | C++ programming | Visual Studio | beginner C++ projects | computer science student portfolio | learning to code | programming practice | object-oriented programming
+
+`hafiz irshad` `l1s26bscs0012` `bscs` `computer science` `cpp` `c++` `visual studio` `student portfolio` `programming` `coding` `beginner` `oop`
+
 ---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:5C2D91&height=100&section=footer)
 
 **Hafiz Irshad** | L1S26BSCS0012 | BS Computer Science
